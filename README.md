@@ -12,7 +12,9 @@
 
  <br>
 
-*"Learning never exhausts the mind.” - Leonardo da Vinci*
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
  <br> <br>
 
