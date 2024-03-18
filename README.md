@@ -9,20 +9,9 @@
 - 🏒  ⛸️  🏋🏻‍♀️  🧘🏻‍♀️  💻  👾  🎭  🎨  🎲  🎳  🚗  🌈  ⛰️  ✈️  🙋🏻‍♀️
 
 
+### 💌 Contact me
 
- <br>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
- <br> <br>
-
-
-## 💌 Contact me
- <br>
-<p align="center">
-  
+<p align="left">
   <a href="https://www.linkedin.com/in/isla-cruanes/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
@@ -30,8 +19,11 @@
 </p>
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br> <br>
+ <br>
+
 
 
 ## 👾 My Stack
@@ -39,7 +31,7 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,laravel" />
     <img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap" />
   </a><a href="https://skillicons.dev">
     <br>  <br>
