@@ -39,11 +39,12 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap" />
   </a><a href="https://skillicons.dev">
     <br>  <br>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,wordpress" />
-  </a><br>  <br>
+  </a>
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae" />
   </a>
  
