@@ -2,7 +2,8 @@
 
 # Hi, I'm Isla! 👋
 
-- 📚  I’m currently coursing a **Full Stack Development Bootcamp** (850h) at Factoria F5
+- 💻  I’m working as a **Full Stack Developer** at Nafarco
+- 📚  I studied a **Full Stack Development Bootcamp** (850h) at Factoria F5
 - 🎨  I'm also a **senior graphic designer** and **illustrator** too
 - 🧠 I'm **curious** by nature and **learning constantly** are in my DNA
 - 🐈‍⬛ I love my **cat**
